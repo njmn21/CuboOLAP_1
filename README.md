@@ -16,7 +16,7 @@ Se configuró la conexión a la base de datos **Adventure Works**, que sirve com
 
 ### 2. **Vista del Origen de Datos (DSV)**
 Se creó una vista lógica del origen de datos para filtrar y organizar las tablas necesarias:
-- **Tablas Seleccionadas**: Se incluyeron tablas relevantes como `DimDate`, `DimCustomers`, y `DimProduct`, entre otras.
+- **Tablas Seleccionadas**: Se incluyeron tablas relevantes.
 - **Relaciones**: Se definieron relaciones entre las tablas, alineándolas con claves primarias y foráneas.
 - **Campos Calculados**: Se añadieron columnas calculadas para enriquecer el análisis. Por ejemplo, cálculos personalizados en costos y ventas.
 
