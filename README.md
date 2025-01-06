@@ -24,9 +24,6 @@ Se creó una vista lógica del origen de datos para filtrar y organizar las tabl
 
 ### 3. **Creación del Cubo**
 Se creó un cubo que contiene medidas y dimensiones para realizar análisis multidimensionales:
-- **Medidas Seleccionadas**:
-  - `Total Product Cost`
-  - `Sales Amount`
 - **Dimensiones Incluidas**:
   - `DimDate`
   - `DimCustomers`
